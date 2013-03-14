@@ -3,7 +3,7 @@ Startup Life Marketing Page
 
 Note:
 -----
-This is just a dummy try-out. Wanted to learn how to use Github properly.
+Wanted to make an interesting marketing material. Basically once the existing images and texts are replaced with the new, it's good to go.
 
 The page at work:
 -----------------
