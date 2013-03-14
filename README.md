@@ -1,0 +1,10 @@
+Startup Life Marketing Page
+===========================
+
+Note:
+-----
+This is just a dummy try-out. Wanted to learn how to use Github properly.
+
+The page at work:
+-----------------
+Go check http://startuplife.fi/overview
